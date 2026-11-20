@@ -1,0 +1,14 @@
+id,sent,request,status,reason
+Q02,2026-10-08,Can I book the AI Lab on 16 Oct afternoon for 35 students for a model training demo,conflict,Slot already confirmed for LAB3 on 2026-10-16 (AN) in register
+Q03,2026-10-08,Need AI Lab on 21 October morning 9:00 AM to 12:30 PM for 50 students machine learning workshop,over_capacity,"Requested 50 students, but LAB3 capacity is only 40"
+Q04,2026-10-08,Need a lab tomorrow for project review,needs_more_info,"Missing or unclear details: lab, date, slot, students"
+Q05,2026-10-09,Requesting Seminar Hall on 18 October afternoon for 100 students guest lecture,lab_closed,Laboratories are closed on Sundays (2026-10-18 is Sunday)
+Q07,2026-10-09,Book LAB1 on 15 Oct AN for 30 students for MA102 tutorial,conflict,Slot clash with earlier accepted request Q01 on 2026-10-15 (AN)
+Q08,2026-10-09,Need Python Lab on 20 October afternoon for 45 students,needs_more_info,Missing or unclear details: lab
+Q09,2026-10-10,Can we get Networks Lab on 20 October afternoon for 35 students for CCNA practice,conflict,Slot already confirmed for LAB4 on 2026-10-20 (AN) in register
+Q10,2026-10-10,Require Seminar Hall on 25 October forenoon for 80 students cultural briefing,lab_closed,Laboratories are closed on Sundays (2026-10-25 is Sunday)
+Q11,2026-10-10,Please book AI Lab on 31 February afternoon for 25 students debugging session,needs_more_info,Invalid calendar date '2026-02-31'
+Q14,2026-10-11,Kindly reserve Seminar Hall on 29 October afternoon for 140 students campus drive,over_capacity,"Requested 140 students, but LAB5 capacity is only 120"
+Q15,2026-10-12,Requesting Python Lab 1 on 19 October 9:00 AM for 50 students extra class,conflict,Slot already confirmed for LAB1 on 2026-10-19 (FN) in register
+Q17,2026-10-12,Can we reserve LAB2 on next Friday afternoon for 30 students code review,needs_more_info,Missing or unclear details: date
+Q18,2026-10-13,Urgent booking: LAB1 on 27 October afternoon for 45 students aptitude test,conflict,Slot clash with earlier accepted request Q12 on 2026-10-27 (AN)

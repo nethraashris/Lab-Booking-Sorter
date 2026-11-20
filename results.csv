@@ -1,0 +1,21 @@
+id,sent,lab,date,slot,students,status,reason
+Q01,2026-10-08,LAB1,2026-10-15,AN,55,available,All requirements met; slot is available
+Q02,2026-10-08,LAB3,2026-10-16,AN,35,conflict,Slot already confirmed for LAB3 on 2026-10-16 (AN) in register
+Q03,2026-10-08,LAB3,2026-10-21,AN,50,over_capacity,"Requested 50 students, but LAB3 capacity is only 40"
+Q04,2026-10-08,,,,,needs_more_info,"Missing or unclear details: lab, date, slot, students"
+Q05,2026-10-09,LAB5,2026-10-18,AN,100,lab_closed,Laboratories are closed on Sundays (2026-10-18 is Sunday)
+Q06,2026-10-09,LAB2,2026-10-22,FN,40,available,All requirements met; slot is available
+Q07,2026-10-09,LAB1,2026-10-15,AN,30,conflict,Slot clash with earlier accepted request Q01 on 2026-10-15 (AN)
+Q08,2026-10-09,,2026-10-20,AN,45,needs_more_info,Missing or unclear details: lab
+Q09,2026-10-10,LAB4,2026-10-20,AN,35,conflict,Slot already confirmed for LAB4 on 2026-10-20 (AN) in register
+Q10,2026-10-10,LAB5,2026-10-25,FN,80,lab_closed,Laboratories are closed on Sundays (2026-10-25 is Sunday)
+Q11,2026-10-10,LAB3,2026-02-31,AN,25,needs_more_info,Invalid calendar date '2026-02-31'
+Q12,2026-10-11,LAB1,2026-10-27,AN,50,available,All requirements met; slot is available
+Q13,2026-10-11,LAB3,2026-10-28,FN,30,available,All requirements met; slot is available
+Q14,2026-10-11,LAB5,2026-10-29,AN,140,over_capacity,"Requested 140 students, but LAB5 capacity is only 120"
+Q15,2026-10-12,LAB1,2026-10-19,FN,50,conflict,Slot already confirmed for LAB1 on 2026-10-19 (FN) in register
+Q16,2026-10-12,LAB4,2026-10-24,FN,40,available,All requirements met; slot is available
+Q17,2026-10-12,LAB2,,AN,30,needs_more_info,Missing or unclear details: date
+Q18,2026-10-13,LAB1,2026-10-27,AN,45,conflict,Slot clash with earlier accepted request Q12 on 2026-10-27 (AN)
+Q19,2026-10-13,LAB3,2026-10-22,AN,20,available,All requirements met; slot is available
+Q20,2026-10-13,LAB2,2026-10-30,AN,48,available,All requirements met; slot is available

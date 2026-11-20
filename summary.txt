@@ -1,0 +1,27 @@
+============================================================
+LAB BOOKING REQUEST SORTER - SUMMARY REPORT
+============================================================
+
+Total Requests Processed : 20
+Configured Semester Range: 2026-10-01 to 2026-12-15
+
+REQUEST COUNTS BY STATUS:
+----------------------------------------
+  - available         : 7
+  - conflict          : 5
+  - over_capacity     : 2
+  - lab_closed        : 2
+  - needs_more_info   : 4
+
+AVAILABLE BOOKINGS BY LAB:
+----------------------------------------
+  - LAB1 (Python Lab 1    ): 2 bookings
+  - LAB2 (Python Lab 2    ): 2 bookings
+  - LAB3 (AI Lab          ): 2 bookings
+  - LAB4 (Networks Lab    ): 1 bookings
+  - LAB5 (Seminar Hall    ): 0 bookings
+
+IMPORTANT NOTICE:
+The software NEVER confirms bookings automatically.
+The lab in-charge must confirm all tentative bookings.
+============================================================
